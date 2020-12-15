@@ -53,3 +53,9 @@ DJT Token Sale Contracts
 - Upon completion of the Public Sale, vesting smart contract receives tokens allocated for long term budget, team and founders;
 - Tokens distributed to core team members will be subject to vesting, in 20% increments over a period of 72 weeks commencing at the end of the token sale.
 - Vesting will be handled by calling on a different set of functions and instance of smart contract.
+
+Smart Contracts
+=========================
+
+- Transaction hash of the 1st smart contract (Dijets.sol) deployment can be found [here!](https://etherscan.io/tx/0xe8e30d27abc271f893a6d1c076a86083fbc138f5f141edc781175ada98a1c6ed)
+- Transaction hash of the 2nd Smart Contract (Dijets-Token-Sale.sol) deployment can be found [here!](https://etherscan.io/tx/0xd890028e8e652725fc9a1e9ea84283d2cdbe82ef034c7a51cd4ac9c35aa622cb)
