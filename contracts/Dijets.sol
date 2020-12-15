@@ -6,7 +6,7 @@
  * on a token per ETH rate. Funds collected are forwarded to a wallet
  * as they arrive.
  */
-contract Crowdsale {
+contract Publicsale {
     using SafeMath for uint256;
 
     // The token being sold
