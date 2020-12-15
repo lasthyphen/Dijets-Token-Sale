@@ -38,7 +38,7 @@ DJT Token Sale Contracts
 - Team is able to pause the receiving of the funds on the smart contract;
 - In this phase, no one is able to buy the tokens;
 - Contract deployer/"Owner" has to "setSalePhase()" to "PublicSaleFinished" to then be able to call "Finalise PublicSale:
-- Tier 3 sale is set to run from 05th January 2021 to 05th January 2021.
+- Tier 3 sale is set to run from 05th January 2021 to 12th January 2021.
 
 **5. Post Public Sale**
 
