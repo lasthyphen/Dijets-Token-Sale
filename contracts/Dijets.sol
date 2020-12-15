@@ -10,7 +10,7 @@ contract Crowdsale {
     using SafeMath for uint256;
 
     // The token being sold
-    MintableToken public token;
+    DijetsToken Limited Supply;
 
     // start and end timestamps where investments are allowed (both inclusive)
     uint256 public startTime;
@@ -42,10 +42,10 @@ contract Crowdsale {
         wallet = _wallet;
     }
 
-    // creates the token to be sold.
+    // creates the token to be sold. <-- check this!!OVERRIDDEN
     // override this method to have crowdsale of a specific mintable token.
-    function createTokenContract() internal returns (BethereumToken) {
-        return new BethereumToken();
+    function createTokenContract() internal returns (DijetsTokenToken) {
+        return new DijetsTokenToken();
     }
 
 
