@@ -44,8 +44,8 @@ contract Publicsale {
 
     // creates the token to be sold. <-- check this!!OVERRIDDEN
     // override this method to have crowdsale of a specific mintable token.
-    function createTokenContract() internal returns (DijetsTokenToken) {
-        return new DijetsTokenToken();
+    function createTokenContract() internal returns (DijetsToken) {
+        return new DijetsToken();
     }
 
 
