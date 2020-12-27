@@ -119,8 +119,14 @@ contract DijetsTokenSale is FinalizableCrowdsale {
     // Define sale - Tier 1, Tier 2, Tier 3
     uint public constant RATE = 830;
     uint public constant TOKEN_SALE_LIMIT = 30000 * 1000000000000000000;
+    
+    uint public constant RATE = 710;
+    uint public constant TOKEN_SALE_LIMIT = 30000 * 1000000000000000000;
+    
+    uint public constant RATE = 620;
+    uint public constant TOKEN_SALE_LIMIT = 30000 * 1000000000000000000;
 
-    uint256 public constant TOKENS_FOR_OPERATIONS = 15000000*(10**6);
+    uint256 public constant TOKENS_FOR_OPERATIONS = 5200000*(10**6);
     uint256 public constant TOKENS_FOR_SALE = 52000000*(10**6);
 
     uint public constant TOKENS_FOR_PRESALE = 3150000*(1 ether / 1 wei);
