@@ -120,9 +120,9 @@ contract DijetsTokenSale is FinalizableCrowdsale {
     uint public constant TOKEN_SALE_LIMIT = 30000 * 1000000000000000000;
 
     uint256 public constant TOKENS_FOR_OPERATIONS = 15000000*(10**6);
-    uint256 public constant TOKENS_FOR_SALE = 65000000*(10**6);
+    uint256 public constant TOKENS_FOR_SALE = 52000000*(10**6);
 
-    uint public constant TOKENS_FOR_PRESALE = 315000000*(1 ether / 1 wei);
+    uint public constant TOKENS_FOR_PRESALE = 3150000*(1 ether / 1 wei);
 
     uint public constant FRST_TIER_PRICE = TOKENS_FOR_PRVSALE + TOKENS_ALLOC*(1 ether / 1 wei);//30% bonus
     uint public constant SCND_TIER_PRICE = FRST_SALE_RATIO + TOKENS_ALLOC*(1 ether / 1 wei);//15% bonus
