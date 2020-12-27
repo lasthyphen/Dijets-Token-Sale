@@ -1,5 +1,5 @@
 # Dijets-Token-Sale
-Solidity Contracts for Dijets Public Sale Launch on 27.12.2020 - 21:00pm GMT
+Solidity Contracts for Dijets Public Sale Launch on 27.12.2020 - 22:00pm GMT
 
 DJT Token Sale Contracts
 ===================================
