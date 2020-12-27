@@ -14,7 +14,7 @@ DJT Token Sale Contracts
   - Once deployed, the contract assumes ownership of Tokens and distributes DJT itself.
   - DJT rates for all 3 Tiers are already set in the contract.
   
-  (Please Note: Members who registered with Dijets before 27/11/2020 and added their Dijets Wallet address during registration will be eligible for 30% discount in Tier 1. You will get the bonus amount of tokens together with the purchased tokens. Please visit [Whitelist Check](https://whitelist.dijets.io)to see if your wallet is whitelisted and thus automatically qualified to receive the 30% bonus)
+  (Please Note: Members who registered with Dijets before 27/11/2020 and added their Dijets Wallet address during registration will be eligible for 30% discount in Tier 1. You will get the bonus amount of tokens together with the purchased tokens. Please visit [Whitelist Check](https://whitelist.dijets.io) to see if your wallet is whitelisted and thus automatically qualified to receive the 30% bonus)
 
 **1. Tier 1 Public Sale**
 
