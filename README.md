@@ -1,5 +1,5 @@
 # Dijets-Token-Sale
-Solidity Contracts for Dijets Public Sale Launch on 27.12.2020 - 22:00pm GMT
+Solidity Contracts for Dijets Public Sale Launch on 30.12.2020 - 12:00pm GMT
 
 DJT Token Sale Contracts
 ===================================
@@ -14,7 +14,7 @@ DJT Token Sale Contracts
   - Once deployed, the contract assumes ownership of Tokens and distributes DJT itself.
   - DJT rates for all 3 Tiers are already set in the contract.
   
-  (Please Note: Members who registered with Dijets before 27/11/2020 and added their Dijets Wallet address during registration will be eligible for 30% discount in Tier 1. You will get the bonus amount of tokens together with the purchased tokens. Please visit [Whitelist Check](https://whitelist.dijets.io) to see if your wallet is whitelisted and thus automatically qualified to receive the 30% bonus)
+  (Please Note: Members who registered with Dijets before 28/10/2020 and added their Dijets Wallet address during registration will be eligible for 30% discount in Tier 1. You will get the bonus amount of tokens together with the purchased tokens. Please visit [Whitelist Check](https://whitelist.dijets.io) to see if your wallet is whitelisted and thus automatically qualified to receive the 30% bonus)
 
 **1. Tier 1 Public Sale**
 
@@ -22,7 +22,7 @@ DJT Token Sale Contracts
 - Dijets Team is only able to execute function of "setSalePhase();" to define the Tier parameters;
 - Total amount of DJT tokens allocated for the sale is 52,000,000 tokens, at Tier 1 rate of 830 DJT tokens per 1 ETH;
 - The price per DJT is set to increase with each Tier. Where Tier 3 has the highest and Tier 1 has the lowest price;
-- Tier 1 sale is set to run from 27th December 2020 to 4th January 2021.
+- Tier 1 sale is set to run from 30th December 2020 to 7th January 2021.
 
 **2. Tier 2 Public Sale**
 
@@ -32,7 +32,7 @@ DJT Token Sale Contracts
 - The Smart contract is able to receive funds from contributors and those funds are forwarded to a pre-defined wallet address;
 - Contributors will automatically and instantly receive their DJT tokens based on the Currency exchange Ratio;
 - Transfers and manipulation with token is blocked until the very last function call of "FinalisePublicSale";
-- Tier 2 sale is set to run from 4th January 2021 to 12th January 2021.
+- Tier 2 sale is set to run from 7th January 2021 to 14th January 2021.
 
 **3. Tier 3 - Public Sale**
 
@@ -42,7 +42,7 @@ DJT Token Sale Contracts
 - Team is able to pause the receiving of the funds on the smart contract;
 - At the end of this phase, no one is able to buy the tokens anymore;
 - Contract deployer/"Owner" has to "setSalePhase()" to "PublicSaleFinished" to then be able to call "Finalise PublicSale:
-- Tier 3 sale is set to run from 12th January 2021 to 19th January 2021.
+- Tier 3 sale is set to run from 14th January 2021 to 21st January 2021.
 
 **5. Post Public Sale**
 
