@@ -1,5 +1,5 @@
 # Dijets-Token-Sale
-Solidity Contracts for Dijets Public Sale Launch on 30.12.2020 - 12:00pm GMT
+Solidity Contracts for Dijets Public Sale Launch on 31.12.2020 - 12:00pm GMT
 
 DJT Token Sale Contracts
 ===================================
@@ -22,7 +22,7 @@ DJT Token Sale Contracts
 - Dijets Team is only able to execute function of "setSalePhase();" to define the Tier parameters;
 - Total amount of DJT tokens allocated for the sale is 52,000,000 tokens, at Tier 1 rate of 830 DJT tokens per 1 ETH;
 - The price per DJT is set to increase with each Tier. Where Tier 3 has the highest and Tier 1 has the lowest price;
-- Tier 1 sale is set to run from 30th December 2020 to 7th January 2021.
+- Tier 1 sale is set to run from 31st December 2020 to 7th January 2021.
 
 **2. Tier 2 Public Sale**
 
