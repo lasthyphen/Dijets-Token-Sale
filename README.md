@@ -22,7 +22,6 @@ DJT Token Sale Contracts
 - Dijets Team is only able to execute function of "setSalePhase();" to define the Tier parameters;
 - Total amount of DJT tokens allocated for the sale is 52,000,000 tokens, at Tier 1 rate of 830 DJT tokens per 1 ETH;
 - The price per DJT is set to increase with each Tier. Where Tier 3 has the highest and Tier 1 has the lowest price;
-- Tier 1 sale is set to run from 03rd Jauary 2021 to 10th January 2021.
 
 **2. Tier 2 Public Sale**
 
@@ -42,7 +41,6 @@ DJT Token Sale Contracts
 - Team is able to pause the receiving of the funds on the smart contract;
 - At the end of this phase, no one is able to buy the tokens anymore;
 - Contract deployer/"Owner" has to "setSalePhase()" to "PublicSaleFinished" to then be able to call "Finalise PublicSale:
-- Tier 3 sale is set to run from 17th January 2021 to 24th January 2021.
 
 **5. Post Public Sale**
 
