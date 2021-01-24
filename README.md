@@ -31,7 +31,6 @@ DJT Token Sale Contracts
 - The Smart contract is able to receive funds from contributors and those funds are forwarded to a pre-defined wallet address;
 - Contributors will automatically and instantly receive their DJT tokens based on the Currency exchange Ratio;
 - Transfers and manipulation with token is blocked until the very last function call of "FinalisePublicSale";
-- Tier 2 sale is set to run from 10th January 2021 to 17th January 2021.
 
 **3. Tier 3 - Public Sale**
 
